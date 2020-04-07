@@ -1,0 +1,26 @@
+{
+  "name": "JS-Mocha_Testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'app/test/**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeKeenan25/JS-Mocha_Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeKeenan25/JS-Mocha_Testing/issues"
+  },
+  "homepage": "https://github.com/JakeKeenan25/JS-Mocha_Testing#readme",
+  "dependencies": {
+    "mocha": "^7.1.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
